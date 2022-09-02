@@ -6,7 +6,7 @@
 Y. He, Z. Lu, W. J. Wang, D. Zhang, Y. L. Zhang, B. Q. Qin, K. Shi*, & X. F. Yang. 2022. Water clarity mapping of global lakes using a novel hybrid deep-learning-based recurrent model with Landsat OLI images. *Water Research*, 215, 118241.
 <https://doi.org/10.1016/j.watres.2022.118241>
 
-*Notes:* This web only provides the codes used in this ciation. The in-situ measurements may open access in the future.
+*Notes:* This repo only uploaded the codes which are used in this ciation. The in-situ measurements may share in the future.
 
 ## Data pre-processing (almost working in *GEE* platform)
 ### 1. The global water bodies extraction:
