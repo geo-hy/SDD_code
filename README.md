@@ -1,4 +1,4 @@
-# The codes and models for the paper: 
+# Water clarity (SDD) modeling and processing codes based on Deep Gated Recurrent Netowrk (DGRN) model: 
 *"Water clarity mapping of global lakes using a novel hybrid deep-learning-based recurrent model with Landsat OLI images"*
 
 ## **Citation**: 
@@ -26,7 +26,7 @@ The online accessed link is shown below:
 
 ## Deep-learning-based models (working in *Python* platform)
 ### 1. DRGN_SDD_Landsat8 (also upload to releases)
-This folder save the Deep Gated Recurrent Network (DGRN) model, which input with normalized surface reflectance and output the log-transformed SDD. DGRN model running with Keras 2.6.0. The model architecture and parameterization are shown in the citation.
+This folder save the DGRN model, which input with normalized surface reflectance and output the log-transformed SDD. DGRN model running with Keras 2.6.0. The model architecture and parameterization are shown in the citation.
 
 ## Data post-processing
 ### 1. draw_temporal_trend.py
