@@ -1,3 +1,18 @@
+._.DS_Store
+.DS_Store
+._DRGN_SDD_Landsat8
+._Fig10.ipynb
+._Fig4.ipynb
+._Fig5.py
+._FigS2.drawio
+._FigS5.ipynb
+._Graphical_Abstract.drawio
+._basemap_mapping_backups.ipynb
+._case_lakes.mxd
+._draw_temporal_trend.py
+._normalization_sdd_l8.py
+._optical_properties.py
+._sdd_DGRN.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
