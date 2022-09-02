@@ -25,7 +25,7 @@ The online accessed link is shown below:
 <https://code.earthengine.google.com/529cda3218497357af0799cda42e4d39>
 
 ## Deep-learning-based models (working in *Python* platform)
-### 1. DRGN_SDD_Landsat8
+### 1. DRGN_SDD_Landsat8 (also upload to releases)
 This folder save the Deep Gated Recurrent Network (DGRN) model, which input with normalized surface reflectance and output the log-transformed SDD. DGRN model running with Keras 2.6.0. The model architecture and parameterization are shown in the citation.
 
 ## Data post-processing
